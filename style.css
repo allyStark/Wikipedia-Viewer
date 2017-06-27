@@ -1,0 +1,56 @@
+.results {
+  
+  border: 2px solid black;
+  margin: 10px auto 10px auto;
+  
+} 
+
+.title {
+  
+  font-size: 150%;
+  
+}
+
+.btn-primary {
+  
+  margin: 20px;
+  
+}
+
+#searchContainer {
+  
+  margin-top: 5%;
+  border: black 2px solid;
+  
+}
+
+h1 {
+  
+  color:#428BCA;
+  
+}
+
+.flipInX {
+  
+  background-color: white;
+  
+}
+
+body {
+  
+  background-color: #428BCA;
+ 
+}
+
+div {
+  
+  font-family: 'Crimson Text', serif;
+  
+}
+
+.btn {
+  
+  margin-top: 2%;
+  margin-bottom: 2%;
+  
+}
